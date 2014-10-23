@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberHypermedia", "uberhypermedia\UberHypermedia.csproj", "{A17F52FA-0769-4EEE-81A3-4509A2C312C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberHypermedia", "UberHypermedia\UberHypermedia.csproj", "{A17F52FA-0769-4EEE-81A3-4509A2C312C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
